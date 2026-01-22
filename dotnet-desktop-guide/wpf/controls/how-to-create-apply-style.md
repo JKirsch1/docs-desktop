@@ -6,7 +6,7 @@ ms.author: adegeo
 ms.date: 10/22/2024
 ms.service: dotnet-desktop
 ms.update-cycle: 365-days
-ms.topic: how-to
+ms.topic: concept-article
 ms.custom: update-template
 dev_langs:
   - "csharp"
